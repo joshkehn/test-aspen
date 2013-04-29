@@ -1,0 +1,9 @@
+"""Testing aspen."""
+
+[---]
+
+request.redirect("/test.html")
+
+[---]
+
+You should be redirected to <a href="/test.html">test.html</a>.
